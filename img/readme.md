@@ -2,7 +2,7 @@
 
 Here is some images
 
-![image](https://github.com/DDQXZcp/Robocon2021_SwerveHT_Competition_Version/blob/main/img/me_and_robots.jpg)
+<img src="[https://your-image-url.type](https://github.com/DDQXZcp/Robocon2021_SwerveHT_Competition_Version/blob/main/img/stepdown.jpg)" width="100">
 
 ![image](https://github.com/DDQXZcp/Robocon2021_SwerveHT_Competition_Version/blob/main/img/stepdown.jpg)
 
