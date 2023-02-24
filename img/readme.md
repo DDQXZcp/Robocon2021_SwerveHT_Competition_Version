@@ -2,10 +2,7 @@
 
 Here is some images
 
-<img src="https://github.com/DDQXZcp/Robocon2021_SwerveHT_Competition_Version/blob/main/img/stepdown.jpg" width="100">
+<img src="https://github.com/DDQXZcp/Robocon2021_SwerveHT_Competition_Version/blob/main/img/me_competition.jpg" width="1000">
 
-![image](https://github.com/DDQXZcp/Robocon2021_SwerveHT_Competition_Version/blob/main/img/stepdown.jpg)
+<img src="https://github.com/DDQXZcp/Robocon2021_SwerveHT_Competition_Version/blob/main/img/swerve_model.png" width="1000">
 
-![image](https://github.com/DDQXZcp/Robocon2021_SwerveHT_Competition_Version/blob/main/img/me_competition.jpg)
-
-![image](https://github.com/DDQXZcp/Robocon2021_SwerveHT_Competition_Version/blob/main/img/swerve_model.png)
